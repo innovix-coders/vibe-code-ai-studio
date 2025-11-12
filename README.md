@@ -29,7 +29,7 @@ Visualization	Plotly Express
 Date Management	datetime, json
 🧑‍💻 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/Anandhu-creator/vibe-code-ai-studio.git
+git clone https://github.com/innovix-coders/vibe-code-ai-studio.git
 
 2️⃣ Navigate to the project directory
 cd vibe-code-ai-studio
